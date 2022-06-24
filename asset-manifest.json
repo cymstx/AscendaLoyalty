@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ascenda/static/css/main.5bbd8303.css",
+    "main.js": "/ascenda/static/js/main.f9df2519.js",
+    "static/media/sands.png": "/ascenda/static/media/sands.626480707ddcb11a0e5f.png",
+    "static/media/star.png": "/ascenda/static/media/star.9388a4659a700e964e3b.png",
+    "static/media/sia.png": "/ascenda/static/media/sia.4dcadd4599c178e89999.png",
+    "index.html": "/ascenda/index.html",
+    "main.5bbd8303.css.map": "/ascenda/static/css/main.5bbd8303.css.map",
+    "main.f9df2519.js.map": "/ascenda/static/js/main.f9df2519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbd8303.css",
+    "static/js/main.f9df2519.js"
+  ]
+}
