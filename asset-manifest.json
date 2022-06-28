@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ascendas-Loyalty/static/css/main.c113c272.css",
-    "main.js": "/Ascendas-Loyalty/static/js/main.d71abfdd.js",
+    "main.js": "/Ascendas-Loyalty/static/js/main.236e7d31.js",
     "static/media/sands.png": "/Ascendas-Loyalty/static/media/sands.626480707ddcb11a0e5f.png",
     "static/media/star.png": "/Ascendas-Loyalty/static/media/star.9388a4659a700e964e3b.png",
     "static/media/sia.png": "/Ascendas-Loyalty/static/media/sia.4dcadd4599c178e89999.png",
     "index.html": "/Ascendas-Loyalty/index.html",
     "main.c113c272.css.map": "/Ascendas-Loyalty/static/css/main.c113c272.css.map",
-    "main.d71abfdd.js.map": "/Ascendas-Loyalty/static/js/main.d71abfdd.js.map"
+    "main.236e7d31.js.map": "/Ascendas-Loyalty/static/js/main.236e7d31.js.map"
   },
   "entrypoints": [
     "static/css/main.c113c272.css",
-    "static/js/main.d71abfdd.js"
+    "static/js/main.236e7d31.js"
   ]
 }
