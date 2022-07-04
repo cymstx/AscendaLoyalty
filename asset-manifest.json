@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ascendas-Loyalty/static/css/main.56727a79.css",
-    "main.js": "/Ascendas-Loyalty/static/js/main.9dcc72da.js",
+    "main.css": "/Ascendas-Loyalty/static/css/main.30cebbc3.css",
+    "main.js": "/Ascendas-Loyalty/static/js/main.b2c6a596.js",
     "static/media/sands.png": "/Ascendas-Loyalty/static/media/sands.626480707ddcb11a0e5f.png",
     "static/media/star.png": "/Ascendas-Loyalty/static/media/star.9388a4659a700e964e3b.png",
     "static/media/sia.png": "/Ascendas-Loyalty/static/media/sia.4dcadd4599c178e89999.png",
     "static/media/ocbc.png": "/Ascendas-Loyalty/static/media/ocbc.881c0f5e471b798081ae.png",
     "static/media/bankofchina.png": "/Ascendas-Loyalty/static/media/bankofchina.acfa5df4f120842382b1.png",
     "index.html": "/Ascendas-Loyalty/index.html",
-    "main.56727a79.css.map": "/Ascendas-Loyalty/static/css/main.56727a79.css.map",
-    "main.9dcc72da.js.map": "/Ascendas-Loyalty/static/js/main.9dcc72da.js.map"
+    "main.30cebbc3.css.map": "/Ascendas-Loyalty/static/css/main.30cebbc3.css.map",
+    "main.b2c6a596.js.map": "/Ascendas-Loyalty/static/js/main.b2c6a596.js.map"
   },
   "entrypoints": [
-    "static/css/main.56727a79.css",
-    "static/js/main.9dcc72da.js"
+    "static/css/main.30cebbc3.css",
+    "static/js/main.b2c6a596.js"
   ]
 }
