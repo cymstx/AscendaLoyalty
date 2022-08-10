@@ -1,4 +1,4 @@
-# Ascendas-Loyalty
+# Ascenda Loyalty
 This project was done using MERN stack
 ## Client side implementation
 We made use of React.js for the frontend 
